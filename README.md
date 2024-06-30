@@ -1,2 +1,2 @@
 # WEATHER_APP
-my firt project
+my first project
